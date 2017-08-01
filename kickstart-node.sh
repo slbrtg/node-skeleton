@@ -27,3 +27,5 @@ npm install gulp-sass gulp-sourcemaps --save-dev
 echo "______________________________________"
 echo "**** script complete ****"
 echo "______________________________________"
+
+#command line type $: bash kickstart-node.sh
