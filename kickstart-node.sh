@@ -1,4 +1,6 @@
 #!/bin/bash
+npm init
+bower init
 npm install gulp --save-dev
 bower install jquery --save
 bower install bootstrap --save
